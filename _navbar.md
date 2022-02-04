@@ -1,15 +1,19 @@
-<!-- _navbar.md -->
++ 我的网站
+  + [gitee仓库](https://gitee.com/bareth)
+  + [csdn博客](https://bareth.blog.csdn.net/)
+  + [hexo博客](https://bareth.gitee.io/)
++ 编程学习
+  * [哔哩哔哩](https://www.bilibili.com/)
+  * [牛客网](https://www.nowcoder.com/)
+  * [力扣](https://leetcode-cn.com/)
++ 开源仓库
+  * [Github](https://github.com/)
+  * [Gitee](https://gitee.com/)
+  * [Coding](https://coding.net/)
+  * [Gitea](https://gitea.io/)
+  * [Gitlab](https://gitlab.com/)
++ 云服务
+  * [阿里云](https://www.aliyun.com/)
+  * [腾讯云](https://cloud.tencent.com/)
+  * [青云](https://www.qingcloud.com/)
 
-* 入门
-  * [:us: 快速开始](zh-cn/quickstart.md)
-  * [:uk: 多页文档](zh-cn/more-pages.md)
-  * [:cn: 定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
-
-
-* 配置
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)

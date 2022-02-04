@@ -1,15 +1,11 @@
-<!-- 网站图标 -->
-<img src="_media/icon.jpg" alt="logo" style="zoom:25%;" />
+<img src="_media/logo6.png" alt="logo"  />
 
-# docsify <small>3.5</small>
 
-> 一个神奇的文档网站生成器。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+> 自学后端方向以来所有资料整合，欢迎大家访问～
+<br>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+## [**开启阅读**](README.md)
 
-<!-- 背景图片 -->
-![](_media/玩家.png)
+![](_media/美丽.png)
+
