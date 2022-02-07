@@ -1,63 +1,32 @@
-
-
-<p align="center" style="color:blue">
-  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-    <h2 align="center">
-        仓库内容持续更新中...
-    </h2>
-  </a>
-</p>
-
-
-<!-- <p>
-  <br>
-</p> -->
-
 <p align="center">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_index.15y992dieibg.png" width=""/>
+    <a href="https://mp.weixin.qq.com/s/Mntp5GgMmXGt8oF41wjEYA" target="_blank">
+        <img src="_media/logo6.png" alt="logo"/>
     </a>
 </p>
 
 
-
 <p align="center">
-  <a href="https://github.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
-  <a href="https://gitee.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Gitee-r2coding-blue.svg"></a>
-  <a href="https://space.bilibili.com/384068749" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
-  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-    <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系">
+  <a href="https://bareth.blog.csdn.net/" target="_blank"><img src="https://img.shields.io/badge/CSDN-BaretH-red?logo=C"></a>
+  <a href="https://gitee.com/bareth/docsify" target="_blank"><img src="https://img.shields.io/badge/Gitee-docsify-yellow?logo=Gitee"></a>
+  <a href="https://bareth.gitee.io/" target="_blank"><img src="https://img.shields.io/badge/Hexo-bareth-blue?logo=Hexo"></a>
+  <a href="https://mp.weixin.qq.com/s/Mntp5GgMmXGt8oF41wjEYA" target="_blank"><img src="https://img.shields.io/badge/微信公众号-WeChat-green?logo=WeChat" alt="微信联系">
   </a>
 </p>
 
 
+
+
 自学之路漫又长，唯有不断总结，不断回味，不断分享，才能成长！
 
-联系我可以[【微信】](#微信)私我
+联系我可以关注[【Baret-H】](https://mp.weixin.qq.com/s/Mntp5GgMmXGt8oF41wjEYA)私我
 
 ---
 
-# **为什么会有这个开源仓库**
+# 站点简介
 
 ---
 
-本仓库取名 **r2coding**，即 **Road To Coding**，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
-
-旨在为编程自学者提供一系列：
-
->  - **清晰的编程自学路线**
->  - **各编程岗位方向的知识点梳理**
->  - **靠谱的资源**
->  - **高效的工具**
->  - **务实的技术文章**
-
-方便自己也方便他人。仓库内容会保持**持续更新**，欢迎收藏品鉴！
-
----
-
-# **本仓库内容地图**
-
----
+自学后端方向以来所有技术笔记的整合，主要语言为 `Java`/`Golang`，欢迎大家阅读访问，点个 star:baby_chick: ~
 
 ![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
 
@@ -1484,31 +1453,6 @@
 - [md2all markdown排版工具](http://md.aclickall.com/)
 - [在线代码截图工具](https://carbon.now.sh/)
 
-
-## 摸鱼时间
-
-咳咳。。。
-
-  - [0x00000001](https://www.bilibili.com/)
-  - [0x00000002](https://mo.fish/)
-  - [0x00000003](http://www.mazegenerator.net/)
-  - [0x00000004](https://duomoyu.com/)
-  - [0x00000005](http://slither.io/)
-  - [0x00000006](https://www.anyknew.com/#/)
-  - [0x00000007](http://gogoame.sumbioun.com/)
-  - [0x00000008](https://flipanim.com/)
-  - [0x00000009](https://zty.pe/)
-  - [0x0000000a](https://aidn.jp/mikutap/)
-  - [0x0000000b](http://zoomquilt.org/)
-  - [0x0000000c](https://lab.bangbang93.com/wsyw)
-  - [0x0000000d](https://lmbtfy.cn/)
-  - [0x0000000e](https://suulnnka.github.io/BullshitGenerator/index.html)
-  - [0x0000000f](https://zzkia.noddl.me/)
-  - [0x00000010](https://www.dgtle.com/)
-  - [0x00000011](https://sspai.com/)
-
----
-
 # **联系作者**
 
 ---
@@ -1579,11 +1523,3 @@
         <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
     </a>
 </p>
-
-
-
----
-
-# 持续更新中...
-
-[本仓库内容会持续保持更新 → 欢迎收藏品鉴！](

@@ -2,6 +2,7 @@
   + [gitee仓库](https://gitee.com/bareth)
   + [csdn博客](https://bareth.blog.csdn.net/)
   + [hexo博客](https://bareth.gitee.io/)
+  + [微信公众号](https://mp.weixin.qq.com/s/Mntp5GgMmXGt8oF41wjEYA)
 + 编程学习
   * [哔哩哔哩](https://www.bilibili.com/)
   * [牛客网](https://www.nowcoder.com/)
